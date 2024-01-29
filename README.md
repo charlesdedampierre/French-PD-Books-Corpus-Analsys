@@ -15,12 +15,6 @@ Get Git LFS
 apt-get install git-lfs
 ```
 
-Checl Memory
-
-```bash
-apt-get install git-lfs
-```
-
 Download data
 
 ```bash
