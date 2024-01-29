@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+French-PD-Books/
+
 # Distribution / packaging
 .Python
 build/
