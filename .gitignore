@@ -8,7 +8,7 @@ __pycache__/
 
 
 French-PD-Books/
-data/
+*raw_data
 
 # Distribution / packaging
 .Python
