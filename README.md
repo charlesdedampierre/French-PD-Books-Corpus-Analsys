@@ -22,3 +22,10 @@ git clone https://huggingface.co/datasets/PleIAs/French-PD-Books
 ```
 
 
+
+# Galica API
+
+
+## Category Mapping
+
+https://github.com/regicid/docker_gallicagram/blob/master/gallicagram/sdewey.csv?fbclid=IwAR3isVIvhz92ZQwchXf_SC5INYGzwd05pTaOaoG2GuRJbui4idVuOcW5rIU
