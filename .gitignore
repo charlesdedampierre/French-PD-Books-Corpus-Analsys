@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 
+
+*bunka_data
 French-PD-Books/
 *raw_data
 
